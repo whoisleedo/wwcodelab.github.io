@@ -74,8 +74,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "be a good man"
+sidebar-avatar: https://media.licdn.com/dms/image/v2/D5603AQHT8vsF6NATBA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732156150640?e=1739404800&v=beta&t=OFpdkaza-AOx7_4tM8UcQZllfFv9M0jrtv6G1hWSIjk # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
